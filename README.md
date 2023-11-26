@@ -5,7 +5,7 @@
 [man](https://linux.die.net/man/)&emsp;[posix](https://pubs.opengroup.org/onlinepubs/9699919799/)&emsp;[clib](https://devdocs.io/)
 
 # Cryptograph
-[crypto tool](https://1024tools.com/hash)
+[crypto tool](https://crypto-online.cn/playground/aes/encryption)
 
 # Live
 [Blibili](https://github.com/QC5616/cpage.github.io/edit/main/README.md)&emsp;[Youtube](https://www.youtube.com/)
