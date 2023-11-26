@@ -6,5 +6,7 @@ This is a README.
 
 # c manual
 [man](https://linux.die.net/man/)
+
 [posix](https://pubs.opengroup.org/onlinepubs/9699919799/)
+
 [clib](https://devdocs.io/)
